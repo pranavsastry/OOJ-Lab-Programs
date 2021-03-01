@@ -41,7 +41,7 @@ public class IntegerDiv extends Frame implements ActionListener {
         }
     }
     public static void main(String args[]) {
-     integerdiv i = new integerdiv();
+     IntegerDiv i = new IntegerDiv();
         i.setSize(new Dimension(400, 400));
         i.setTitle("INTEGER DIVISION OF TWO NUMBERS");
         i.setVisible(true);
