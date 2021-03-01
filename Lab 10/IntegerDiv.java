@@ -6,7 +6,7 @@ public class IntegerDiv extends Frame implements ActionListener {
     TextField n1, n2, res;
     Label ln1, ln2, lres;
     Button b;
-    public integerdiv() {
+    public IntegerDiv() {
         setLayout(new FlowLayout());
         Label ln1 = new Label("NUMBER 1", Label.RIGHT);
         Label ln2 = new Label("NUMBER 2", Label.RIGHT);
